@@ -18,7 +18,7 @@
 }
 
 h1 {
-  color: white;
+  color: black;
   background: transparent;
   background-color: #8566aa;
   padding: 6px 0 2px 0;
@@ -37,6 +37,7 @@ input {
   width: 60%;
   border-bottom: 2px solid #8566aa;
   outline: none;
+  color: #8566aa;
 }
 
 button {
